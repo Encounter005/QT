@@ -1,0 +1,9 @@
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/Login.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/edit_cache.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/rebuild_cache.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/list_install_components.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/install.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/install/local.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/install/strip.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/Login_autogen_timestamp_deps.dir
+/home/encounter/code/c++/QT/Login/build/unknown-Debug/CMakeFiles/Login_autogen.dir
